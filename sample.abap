@@ -9,7 +9,7 @@
 *REPORT z_cts_log_kc.
 * Tables
  TABLES:e070,e071.
-* Types
+* Types "test
  TYPES : BEGIN OF gty_trkorr,
           strkorr TYPE strkorr,
          END OF gty_trkorr,
