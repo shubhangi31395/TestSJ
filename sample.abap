@@ -33,7 +33,7 @@
   gtt_tadir        TYPE STANDARD TABLE OF tadir,
   gtt_trdir        TYPE STANDARD TABLE OF trdir,
   gtt_cre_dt       TYPE STANDARD TABLE OF e070create.
-
+"update
 * Range Type
  TYPES:
   gtr_trkorr      TYPE RANGE OF trkorr.
