@@ -13,6 +13,7 @@ TABLES:e070,e071.
 *TYPES : BEGIN OF ty_reference,
 *         reference TYPE trvalue,
 *        END OF ty_reference.
+"test
 TYPES : BEGIN OF gty_trkorr,
           strkorr TYPE strkorr,
         END OF gty_trkorr,
