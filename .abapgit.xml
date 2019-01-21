@@ -11,6 +11,9 @@
     <item>/README.md</item>
     <item>/package.json</item>
     <item>/.travis.yml</item>
+    <item>/sample.abap</item>
+    <item>/src/zsj_sales.prog.abap</item>
+    <item>/src/zsj_sales.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
